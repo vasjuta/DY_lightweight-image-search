@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Search</title>
+    <style>
+        /* ... keep existing styles ... */
+    </style>
+</head>
+<body>
+    <h1>Image Search</h1>
+    <div class="search-box">
+        <input type="text" id="search-input" placeholder="Enter search term...">
+        <button onclick="search()">Search</button>
+    </div>
+    <div id="results" class="results"></div>
+
+    <script>
+        function search() {
+            const query = document.getElementById('search-input').value;
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = 'Searching...';
+
+            // Changed to use GET instead of POST
+            fetch('/search?query=' + encodeURIComponent(query))
+                .then(response => response.json())
+                .then(data => {
+                    if (data.error) {
+                        resultsDiv.innerHTML = `Error: ${data.error}`;
+                        return;
+                    }
+
+                    if (data.images.length === 0) {
+                        resultsDiv.innerHTML = 'No results found';
+                        return;
+                    }
+
+                    resultsDiv.innerHTML = data.images.map(image => `
+                        <div class="image-card">
+                            <img src="${image.data}" alt="${image.filename}">
+                            <p>${image.filename}</p>
+                        </div>
+                    `).join('');
+                })
+                .catch(error => {
+                    resultsDiv.innerHTML = `Error: ${error}`;
+                });
+        }
+    </script>
+</body>
+</html>

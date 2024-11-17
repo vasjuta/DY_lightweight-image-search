@@ -1,0 +1,9 @@
+# Add to .gitignore
+data/embeddings
+data/images
+data/qdrant
+venv/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store

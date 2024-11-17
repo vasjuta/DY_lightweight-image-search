@@ -1,0 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==1.13.1+cpu
+transformers==4.31.0
+pillow==10.0.0
+tqdm>=4.65.0
