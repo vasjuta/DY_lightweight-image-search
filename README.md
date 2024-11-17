@@ -52,18 +52,18 @@ The current implementation uses a simple file-based synchronization mechanism wh
 
 ## Current Features
 
-Simple image search based on basic image properties
-Lightweight implementation suitable for resource-constrained environments
-Real-time image search and display
-System-wide logging
-Docker-based deployment
+- Simple image search based on basic image properties
+- Lightweight implementation suitable for resource-constrained environments
+- Real-time image search and display
+- System-wide logging
+- Docker-based deployment
 
 ## Limitations
 
-Basic image feature extraction (no deep learning)
-Search based on image properties rather than content
-In-memory vector storage (no persistence)
-Simple error handling
+- Basic image feature extraction (no deep learning)
+- Search based on image properties rather than content
+- In-memory vector storage (no persistence)
+- Simple error handling
 
 ## Potential Improvements (for Better Resources)
 
