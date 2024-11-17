@@ -1,0 +1,270 @@
+System Log - Sun Nov 17 11:54:19 IST 2024
+-------------------
+Logs from downloader:
+-------------------
+time="2024-11-17T11:54:19+02:00" level=warning msg="/Users/vassilyn/PycharmProjects/DY/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Left_side_of_Flying_Pigeon.jpg/1280px-Left_side_of_Flying_Pigeon.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  175k  100  175k    0     0   199k      0 --:--:-- --:--:-- --:--:--  200k
+downloader-1  | temp_1731835869.jpg: JPEG image data, baseline, precision 8, 1279x853, components 3
+downloader-1  | Successfully downloaded and verified image
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gull_portrait_ca_usa.jpg/1280px-Gull_portrait_ca_usa.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0   124k      0 --:--:-- --:--:-- --:--:--  124k
+downloader-1  | temp_1731835871.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, comment: "File source: http://commons.wikimedia.org/wiki/File:Gull_portrait_ca_usa.jpg", baseline, precision 8, 1280x960, components 3
+downloader-1  | Successfully downloaded and verified image
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rowing_at_the_1980_Summer_Olympics.jpg/1280px-Rowing_at_the_1980_Summer_Olympics.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1908  100  1908    0     0   2591      0 --:--:-- --:--:-- --:--:--  2588
+downloader-1  | Downloaded file is not a valid image, skipping: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rowing_at_the_1980_Summer_Olympics.jpg/1280px-Rowing_at_the_1980_Summer_Olympics.jpg
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/African_Elephant_%28Loxodonta_africana%29_male_%2817289351322%29.jpg/1280px-African_Elephant_%28Loxodonta_africana%29_male_%2817289351322%29.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 98  501k   98  495k    0     0   365k      0  0:00:01  0:00:01 --:--:--  364k100  501k  100  501k    0     0   354k      0  0:00:01  0:00:01 --:--:--  354k
+downloader-1  | temp_1731835874.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, comment: "File source: http://commons.wikimedia.org/wiki/File:African_Elephant_(Loxodonta_africana)_male_(17289351322).jpg", baseline, precision 8, 1280x1404, components 3
+downloader-1  | Successfully downloaded and verified image
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Green_Sea_Turtle_grazing_seagrass.jpg/1280px-Green_Sea_Turtle_grazing_seagrass.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 96  279k   96  268k    0     0   314k      0 --:--:-- --:--:-- --:--:--  314k100  279k  100  279k    0     0   324k      0 --:--:-- --:--:-- --:--:--  324k
+downloader-1  | temp_1731835877.jpg: JPEG image data, baseline, precision 8, 1280x960, components 3
+downloader-1  | Successfully downloaded and verified image
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/NYC_14th_Street_looking_west_12_2005.jpg/1280px-NYC_14th_Street_looking_west_12_2005.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 36  256k   36 95470    0     0   101k      0  0:00:02 --:--:--  0:00:02  101k100  256k  100  256k    0     0   230k      0  0:00:01  0:00:01 --:--:--  230k
+downloader-1  | temp_1731835879.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 240x240, segment length 16, comment: "File source: http://commons.wikimedia.org/wiki/File:NYC_14th_Street_looking_west_12_2005.jpg", baseline, precision 8, 1280x818, components 3
+downloader-1  | Successfully downloaded and verified image
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Giant_Panda_2004-03-2.jpg/1280px-Giant_Panda_2004-03-2.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 19  238k   19 46484    0     0  58499      0  0:00:04 --:--:--  0:00:04 58470100  238k  100  238k    0     0   229k      0  0:00:01  0:00:01 --:--:--  229k
+downloader-1  | temp_1731835881.jpg: JPEG image data, baseline, precision 8, 1280x852, components 3
+downloader-1  | Successfully downloaded and verified image
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ultramarathon_Runners.jpg/1280px-Ultramarathon_Runners.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1908  100  1908    0     0   2201      0 --:--:-- --:--:-- --:--:--  2200100  1908  100  1908    0     0   2200      0 --:--:-- --:--:-- --:--:--  2200
+downloader-1  | Downloaded file is not a valid image, skipping: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ultramarathon_Runners.jpg/1280px-Ultramarathon_Runners.jpg
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Traditional_Japanese_meal.jpg/1280px-Traditional_Japanese_meal.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1908  100  1908    0     0   1884      0  0:00:01  0:00:01 --:--:--  1885100  1908  100  1908    0     0   1882      0  0:00:01  0:00:01 --:--:--  1883
+downloader-1  | Downloaded file is not a valid image, skipping: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Traditional_Japanese_meal.jpg/1280px-Traditional_Japanese_meal.jpg
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4  600k    4 30141    0     0  46824      0  0:00:13 --:--:--  0:00:13 46802100  600k  100  600k    0     0   479k      0  0:00:01  0:00:01 --:--:--  480k
+downloader-1  | temp_1731835887.jpg: JPEG image data, baseline, precision 8, 1280x1014, components 3
+downloader-1  | Successfully downloaded and verified image
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/N.Tesla.JPG/1280px-N.Tesla.JPG
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  463k  100  463k    0     0   366k      0  0:00:01  0:00:01 --:--:--  366k
+downloader-1  | temp_1731835889.jpg: JPEG image data, baseline, precision 8, 1280x1672, components 1
+downloader-1  | Successfully downloaded and verified image
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Old_Book_Bindings.jpg/1280px-Old_Book_Bindings.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1908  100  1908    0     0   2254      0 --:--:-- --:--:-- --:--:--  2255
+downloader-1  | Downloaded file is not a valid image, skipping: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Old_Book_Bindings.jpg/1280px-Old_Book_Bindings.jpg
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Computer_keyboard_Danish_layout.jpg/1280px-Computer_keyboard_Danish_layout.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1908  100  1908    0     0   2775      0 --:--:-- --:--:-- --:--:--  2773
+downloader-1  | Downloaded file is not a valid image, skipping: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Computer_keyboard_Danish_layout.jpg/1280px-Computer_keyboard_Danish_layout.jpg
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sydney_Opera_House_-_Virtual_Tour.jpg/1280px-Sydney_Opera_House_-_Virtual_Tour.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100  1908  100  1908    0     0    810      0  0:00:02  0:00:02 --:--:--   810100  1908  100  1908    0     0    808      0  0:00:02  0:00:02 --:--:--   808
+downloader-1  | Downloaded file is not a valid image, skipping: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sydney_Opera_House_-_Virtual_Tour.jpg/1280px-Sydney_Opera_House_-_Virtual_Tour.jpg
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Golden_retriever_watching_field.jpg/1280px-Golden_retriever_watching_field.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1908  100  1908    0     0   2252      0 --:--:-- --:--:-- --:--:--  2255
+downloader-1  | Downloaded file is not a valid image, skipping: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Golden_retriever_watching_field.jpg/1280px-Golden_retriever_watching_field.jpg
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/International_Space_Station_after_undocking_of_STS-132.jpg/1280px-International_Space_Station_after_undocking_of_STS-132.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1908  100  1908    0     0   2741      0 --:--:-- --:--:-- --:--:--  2741
+downloader-1  | Downloaded file is not a valid image, skipping: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/International_Space_Station_after_undocking_of_STS-132.jpg/1280px-International_Space_Station_after_undocking_of_STS-132.jpg
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Red_rose_with_black_background.jpg/1280px-Red_rose_with_black_background.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1908  100  1908    0     0   2181      0 --:--:-- --:--:-- --:--:--  2180
+downloader-1  | Downloaded file is not a valid image, skipping: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Red_rose_with_black_background.jpg/1280px-Red_rose_with_black_background.jpg
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Swimming_pool_germany.jpg/1280px-Swimming_pool_germany.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1908  100  1908    0     0   2741      0 --:--:-- --:--:-- --:--:--  2741
+downloader-1  | Downloaded file is not a valid image, skipping: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Swimming_pool_germany.jpg/1280px-Swimming_pool_germany.jpg
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1280px-The_Earth_seen_from_Apollo_17.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 18  420k   18 79101    0     0   115k      0  0:00:03 --:--:--  0:00:03  115k100  420k  100  420k    0     0   431k      0 --:--:-- --:--:-- --:--:--  431k
+downloader-1  | temp_1731835906.jpg: JPEG image data, baseline, precision 8, 1280x1281, components 3
+downloader-1  | Successfully downloaded and verified image
+downloader-1  | Downloading: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chess_set.jpg/1280px-Chess_set.jpg
+downloader-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+downloader-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+downloader-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1908  100  1908    0     0   2735      0 --:--:-- --:--:-- --:--:--  2733100  1908  100  1908    0     0   2734      0 --:--:-- --:--:-- --:--:--  2733
+downloader-1  | Downloaded file is not a valid image, skipping: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chess_set.jpg/1280px-Chess_set.jpg
+\n
+Logs from embedding_service:
+-------------------
+time="2024-11-17T11:54:19+02:00" level=warning msg="/Users/vassilyn/PycharmProjects/DY/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+embedding_service-1  | Waiting for downloader to finish...
+embedding_service-1  | Starting embedding service...
+\n
+Logs from qdrant:
+-------------------
+time="2024-11-17T11:54:19+02:00" level=warning msg="/Users/vassilyn/PycharmProjects/DY/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+qdrant-1  |            _                 _    
+qdrant-1  |   __ _  __| |_ __ __ _ _ __ | |_  
+qdrant-1  |  / _` |/ _` | '__/ _` | '_ \| __| 
+qdrant-1  | | (_| | (_| | | | (_| | | | | |_  
+qdrant-1  |  \__, |\__,_|_|  \__,_|_| |_|\__| 
+qdrant-1  |     |_|                           
+qdrant-1  | 
+qdrant-1  | Access web UI at https://ui.qdrant.tech/?v=v1.1.3
+qdrant-1  | 
+qdrant-1  | [2024-11-17T09:31:09.317Z INFO  storage::content_manager::consensus::persistent] Initializing new raft state at ./storage/raft_state
+qdrant-1  | [2024-11-17T09:31:09.335Z INFO  qdrant] Distributed mode disabled
+qdrant-1  | [2024-11-17T09:31:09.335Z INFO  qdrant] Telemetry reporting enabled, id: 8aef3274-ae8d-437a-87d9-8e0832eefdfc
+qdrant-1  | [2024-11-17T09:31:09.350Z INFO  actix_server::builder] Starting 1 workers
+qdrant-1  | [2024-11-17T09:31:09.350Z INFO  actix_server::server] Actix runtime found; starting in Actix runtime
+qdrant-1  | [2024-11-17T09:31:09.350Z INFO  qdrant::tonic] Qdrant gRPC listening on 6334
+qdrant-1  | [2024-11-17T09:32:15.222Z INFO  actix_web::middleware::logger] 192.168.0.5 "PUT /collections/images HTTP/1.1" 200 48 "-" "curl/8.0.1" 0.130608
+qdrant-1  | [2024-11-17T09:32:15.252Z INFO  actix_web::middleware::logger] 192.168.0.5 "PUT /collections/images/points HTTP/1.1" 200 86 "-" "curl/8.0.1" 0.000291
+qdrant-1  | [2024-11-17T09:32:16.279Z INFO  actix_web::middleware::logger] 192.168.0.5 "PUT /collections/images/points HTTP/1.1" 200 86 "-" "curl/8.0.1" 0.000140
+qdrant-1  | [2024-11-17T09:32:17.330Z INFO  actix_web::middleware::logger] 192.168.0.5 "PUT /collections/images/points HTTP/1.1" 200 86 "-" "curl/8.0.1" 0.000198
+qdrant-1  | [2024-11-17T09:32:18.378Z INFO  actix_web::middleware::logger] 192.168.0.5 "PUT /collections/images/points HTTP/1.1" 200 86 "-" "curl/8.0.1" 0.000997
+qdrant-1  | [2024-11-17T09:32:19.422Z INFO  actix_web::middleware::logger] 192.168.0.5 "PUT /collections/images/points HTTP/1.1" 200 85 "-" "curl/8.0.1" 0.000447
+qdrant-1  | [2024-11-17T09:32:20.458Z INFO  actix_web::middleware::logger] 192.168.0.5 "PUT /collections/images/points HTTP/1.1" 200 86 "-" "curl/8.0.1" 0.000297
+qdrant-1  | [2024-11-17T09:32:21.512Z INFO  actix_web::middleware::logger] 192.168.0.5 "PUT /collections/images/points HTTP/1.1" 200 86 "-" "curl/8.0.1" 0.000115
+qdrant-1  | [2024-11-17T09:32:22.549Z INFO  actix_web::middleware::logger] 192.168.0.5 "PUT /collections/images/points HTTP/1.1" 200 86 "-" "curl/8.0.1" 0.000139
+qdrant-1  | [2024-11-17T09:32:23.594Z INFO  actix_web::middleware::logger] 192.168.0.5 "PUT /collections/images/points HTTP/1.1" 200 86 "-" "curl/8.0.1" 0.000418
+qdrant-1  | [2024-11-17T09:32:24.637Z INFO  actix_web::middleware::logger] 192.168.0.5 "GET /collections/images HTTP/1.1" 200 769 "-" "curl/8.0.1" 0.000132
+qdrant-1  | [2024-11-17T09:32:43.447Z INFO  actix_web::middleware::logger] 192.168.0.6 "POST /collections/images/points/search HTTP/1.1" 200 558 "-" "curl/8.0.1" 0.001485
+qdrant-1  | [2024-11-17T09:34:17.779Z INFO  actix_server::server] SIGTERM received; starting graceful shutdown
+qdrant-1  | [2024-11-17T09:34:17.779Z INFO  actix_server::worker] Shutting down idle worker
+qdrant-1  | [2024-11-17T09:34:17.779Z INFO  actix_server::accept] Accept thread stopped
+\n
+Logs from indexer:
+-------------------
+time="2024-11-17T11:54:20+02:00" level=warning msg="/Users/vassilyn/PycharmProjects/DY/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+indexer-1  | Waiting for embedding service to finish...
+indexer-1  | Starting indexer...
+indexer-1  | Starting indexer...
+indexer-1  | Creating collection...
+indexer-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+indexer-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+indexer-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   120  100    48  100    72    350    525 --:--:-- --:--:-- --:--:--   882
+indexer-1  | {"result":true,"status":"ok","time":0.130382195}Processing embeddings...
+indexer-1  | Processing: /app/embeddings/image_1731835870.jpg.txt
+indexer-1  | Indexing vector 1
+indexer-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+indexer-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+indexer-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   325  100    86  100   239   6751  18762 --:--:-- --:--:-- --:--:-- 27083
+indexer-1  | {"result":{"operation_id":0,"status":"acknowledged"},"status":"ok","time":0.000173606}Processing: /app/embeddings/image_1731835872.jpg.txt
+indexer-1  | Indexing vector 2
+indexer-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+indexer-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+indexer-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   325  100    86  100   239  12858  35735 --:--:-- --:--:-- --:--:-- 54166
+indexer-1  | {"result":{"operation_id":1,"status":"acknowledged"},"status":"ok","time":0.000065193}Processing: /app/embeddings/image_1731835876.jpg.txt
+indexer-1  | Indexing vector 3
+indexer-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+indexer-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+indexer-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   326  100    86  100   240   4009  11189 --:--:-- --:--:-- --:--:-- 15523
+indexer-1  | {"result":{"operation_id":2,"status":"acknowledged"},"status":"ok","time":0.000070876}Processing: /app/embeddings/image_1731835878.jpg.txt
+indexer-1  | Indexing vector 4
+indexer-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+indexer-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+indexer-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   325  100    86  100   239   4545  12633 --:--:-- --:--:-- --:--:-- 18055
+indexer-1  | {"result":{"operation_id":3,"status":"acknowledged"},"status":"ok","time":0.000905221}Processing: /app/embeddings/image_1731835880.jpg.txt
+indexer-1  | Indexing vector 5
+indexer-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+indexer-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+indexer-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   324  100    85  100   239   5685  15987 --:--:-- --:--:-- --:--:-- 23142
+indexer-1  | {"result":{"operation_id":4,"status":"acknowledged"},"status":"ok","time":0.00037598}Processing: /app/embeddings/image_1731835882.jpg.txt
+indexer-1  | Indexing vector 6
+indexer-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+indexer-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+indexer-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   325  100    86  100   239   6856  19054 --:--:-- --:--:-- --:--:-- 27083
+indexer-1  | {"result":{"operation_id":5,"status":"acknowledged"},"status":"ok","time":0.000202759}Processing: /app/embeddings/image_1731835888.jpg.txt
+indexer-1  | Indexing vector 7
+indexer-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+indexer-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+indexer-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   326  100    86  100   240   3639  10156 --:--:-- --:--:-- --:--:-- 14173
+indexer-1  | {"result":{"operation_id":6,"status":"acknowledged"},"status":"ok","time":0.000047959}Processing: /app/embeddings/image_1731835891.jpg.txt
+indexer-1  | Indexing vector 8
+indexer-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+indexer-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+indexer-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   326  100    86  100   240   5337  14896 --:--:-- --:--:-- --:--:-- 21733
+indexer-1  | {"result":{"operation_id":7,"status":"acknowledged"},"status":"ok","time":0.000069853}Processing: /app/embeddings/image_1731835907.jpg.txt
+indexer-1  | Indexing vector 9
+indexer-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+indexer-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+indexer-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   326  100    86  100   240   5877  16402 --:--:-- --:--:-- --:--:-- 23285
+indexer-1  | {"result":{"operation_id":8,"status":"acknowledged"},"status":"ok","time":0.000335754}Indexing completed
+indexer-1  | Creating completion marker...
+indexer-1  | total 40
+indexer-1  | drwxr-xr-x    1 1000     50             416 Nov 17  2024 .
+indexer-1  | drwxr-xr-x    1 root     root          4096 Nov 17 09:31 ..
+indexer-1  | -rw-r--r--    1 1000     50               0 Nov 17  2024 .embedding_complete
+indexer-1  | -rw-r--r--    1 1000     50               0 Nov 17  2024 .indexing_complete
+indexer-1  | -rw-r--r--    1 1000     50              24 Nov 17  2024 image_1731835870.jpg.txt
+indexer-1  | -rw-r--r--    1 1000     50              24 Nov 17  2024 image_1731835872.jpg.txt
+indexer-1  | -rw-r--r--    1 1000     50              25 Nov 17  2024 image_1731835876.jpg.txt
+indexer-1  | -rw-r--r--    1 1000     50              24 Nov 17  2024 image_1731835878.jpg.txt
+indexer-1  | -rw-r--r--    1 1000     50              24 Nov 17  2024 image_1731835880.jpg.txt
+indexer-1  | -rw-r--r--    1 1000     50              24 Nov 17  2024 image_1731835882.jpg.txt
+indexer-1  | -rw-r--r--    1 1000     50              25 Nov 17  2024 image_1731835888.jpg.txt
+indexer-1  | -rw-r--r--    1 1000     50              25 Nov 17  2024 image_1731835891.jpg.txt
+indexer-1  | -rw-r--r--    1 1000     50              25 Nov 17  2024 image_1731835907.jpg.txt
+indexer-1  | Completion marker created
+indexer-1  | Final collection status:
+indexer-1  |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+indexer-1  |                                  Dload  Upload   Total   Spent    Left  Speed
+indexer-1  |   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   769  100   769    0     0  95220      0 --:--:-- --:--:-- --:--:--  107k
+\n
+Logs from web_ui:
+-------------------
+time="2024-11-17T11:54:20+02:00" level=warning msg="/Users/vassilyn/PycharmProjects/DY/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+web_ui-1  | Waiting for indexer to finish...
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Still waiting for indexer... Checking /app/embeddings/
+web_ui-1  | Starting web UI...
+web_ui-1  |  * Serving Flask app 'app'
+web_ui-1  |  * Debug mode: on
+web_ui-1  | WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+web_ui-1  |  * Running on all addresses (0.0.0.0)
+web_ui-1  |  * Running on http://127.0.0.1:8080
+web_ui-1  |  * Running on http://192.168.0.6:8080
+web_ui-1  | Press CTRL+C to quit
+web_ui-1  |  * Restarting with stat
+web_ui-1  |  * Debugger is active!
+web_ui-1  |  * Debugger PIN: 144-359-364
+web_ui-1  | 192.168.99.1 - - [17/Nov/2024 09:32:37] "GET / HTTP/1.1" 200 -
+web_ui-1  | Search endpoint called
+web_ui-1  | Executing curl command: curl -s -X POST -H Content-Type: application/json -d {"vector": [1280.0, 720.0, 30000.0, 15000.0], "limit": 5, "with_payload": true} http://qdrant:6333/collections/images/points/search
+web_ui-1  | Curl stdout: {"result":[{"id":5,"version":4,"score":0.99997586,"payload":{"filename":"image_1731835880.jpg.txt"},"vector":null},{"id":1,"version":0,"score":0.999382,"payload":{"filename":"image_1731835870.jpg.txt"},"vector":null},{"id":7,"version":6,"score":0.99894,"payload":{"filename":"image_1731835888.jpg.txt"},"vector":null},{"id":4,"version":3,"score":0.9972135,"payload":{"filename":"image_1731835878.jpg.txt"},"vector":null},{"id":2,"version":1,"score":0.9924115,"payload":{"filename":"image_1731835872.jpg.txt"},"vector":null}],"status":"ok","time":0.001249554}
+web_ui-1  | Curl stderr: 
+web_ui-1  | 192.168.99.1 - - [17/Nov/2024 09:32:43] "GET /search?query=city HTTP/1.1" 200 -
+\n
