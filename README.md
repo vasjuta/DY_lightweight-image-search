@@ -101,3 +101,5 @@ Simple error handling
 System logs are collected in the logs directory. To gather all logs:
 1. chmod +x collect_logs.sh
 2. ./collect_logs.sh
+
+A sample log and a sample search output are added to /logs.
