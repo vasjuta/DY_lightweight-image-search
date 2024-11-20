@@ -5,30 +5,31 @@ import subprocess
 import json
 import traceback
 
+from web_ui.search_logic import ImageSearch
 
 app = Flask(__name__)
+image_search = ImageSearch()
 
-
-def get_search_vector(query):
-    """Returns a vector that will match our real images"""
-    # These values should be close to what ImageMagick generates
-    # for typical JPEGs from our dataset
-    return [1280.0, 720.0, 30000.0, 15000.0]  # Basic image dimensions and stats
-
-
-def get_search_vector_initial(query):
-    """Convert search query to vector based on default or sample values"""
-    # Default vector - can be adjusted based on query keywords
-    search_vector = [1280.0, 720.0, 30000.0, 15000.0]
-
-    # Simple adjustments based on keywords
-    query = query.lower()
-    if 'bright' in query:
-        search_vector[2] *= 1.3  # Increase mean brightness
-    elif 'dark' in query:
-        search_vector[2] *= 0.7  # Decrease mean brightness
-
-    return search_vector
+# def get_search_vector(query):
+#     """Returns a vector that will match our real images"""
+#     # These values should be close to what ImageMagick generates
+#     # for typical JPEGs from our dataset
+#     return [1280.0, 720.0, 30000.0, 15000.0]  # Basic image dimensions and stats
+#
+#
+# def get_search_vector_initial(query):
+#     """Convert search query to vector based on default or sample values"""
+#     # Default vector - can be adjusted based on query keywords
+#     search_vector = [1280.0, 720.0, 30000.0, 15000.0]
+#
+#     # Simple adjustments based on keywords
+#     query = query.lower()
+#     if 'bright' in query:
+#         search_vector[2] *= 1.3  # Increase mean brightness
+#     elif 'dark' in query:
+#         search_vector[2] *= 0.7  # Decrease mean brightness
+#
+#     return search_vector
 
 
 def curl_post(url, data):
@@ -61,7 +62,7 @@ def search():
         # print("Query:", query)
 
         # Use search_logic to get vector
-        vector = get_search_vector(query)
+        vector = image_search.get_search_vector(query)
         # print("Generated vector:", vector)
 
         qdrant_url = 'http://qdrant:6333/collections/images/points/search'
